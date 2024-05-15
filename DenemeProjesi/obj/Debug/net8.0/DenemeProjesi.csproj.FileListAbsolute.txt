@@ -1,0 +1,15 @@
+C:\Users\murat\Desktop\varolmayanproje\DenemeProjesi\bin\Debug\net8.0\DenemeProjesi.exe
+C:\Users\murat\Desktop\varolmayanproje\DenemeProjesi\bin\Debug\net8.0\DenemeProjesi.deps.json
+C:\Users\murat\Desktop\varolmayanproje\DenemeProjesi\bin\Debug\net8.0\DenemeProjesi.runtimeconfig.json
+C:\Users\murat\Desktop\varolmayanproje\DenemeProjesi\bin\Debug\net8.0\DenemeProjesi.dll
+C:\Users\murat\Desktop\varolmayanproje\DenemeProjesi\bin\Debug\net8.0\DenemeProjesi.pdb
+C:\Users\murat\Desktop\varolmayanproje\DenemeProjesi\obj\Debug\net8.0\DenemeProjesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat\Desktop\varolmayanproje\DenemeProjesi\obj\Debug\net8.0\DenemeProjesi.AssemblyInfoInputs.cache
+C:\Users\murat\Desktop\varolmayanproje\DenemeProjesi\obj\Debug\net8.0\DenemeProjesi.AssemblyInfo.cs
+C:\Users\murat\Desktop\varolmayanproje\DenemeProjesi\obj\Debug\net8.0\DenemeProjesi.csproj.CoreCompileInputs.cache
+C:\Users\murat\Desktop\varolmayanproje\DenemeProjesi\obj\Debug\net8.0\DenemeProjesi.sourcelink.json
+C:\Users\murat\Desktop\varolmayanproje\DenemeProjesi\obj\Debug\net8.0\DenemeProjesi.dll
+C:\Users\murat\Desktop\varolmayanproje\DenemeProjesi\obj\Debug\net8.0\refint\DenemeProjesi.dll
+C:\Users\murat\Desktop\varolmayanproje\DenemeProjesi\obj\Debug\net8.0\DenemeProjesi.pdb
+C:\Users\murat\Desktop\varolmayanproje\DenemeProjesi\obj\Debug\net8.0\DenemeProjesi.genruntimeconfig.cache
+C:\Users\murat\Desktop\varolmayanproje\DenemeProjesi\obj\Debug\net8.0\ref\DenemeProjesi.dll
