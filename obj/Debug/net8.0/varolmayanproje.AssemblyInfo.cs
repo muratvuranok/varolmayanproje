@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("varolmayanproje")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0998303e41be6258e6feb24dc2985d4ef2e03276")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68daf770f9bcc385ac96113ce353d8647fdc7c0f")]
 [assembly: System.Reflection.AssemblyProductAttribute("varolmayanproje")]
 [assembly: System.Reflection.AssemblyTitleAttribute("varolmayanproje")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
