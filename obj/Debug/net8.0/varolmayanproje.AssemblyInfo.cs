@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("varolmayanproje")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8517b25d01c8a01b0773d14640fb886c4d2f22f8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+799e442e23a88f8fed29aa82d942466314ba6188")]
 [assembly: System.Reflection.AssemblyProductAttribute("varolmayanproje")]
 [assembly: System.Reflection.AssemblyTitleAttribute("varolmayanproje")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

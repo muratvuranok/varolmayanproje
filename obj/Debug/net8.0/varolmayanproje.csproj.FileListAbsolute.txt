@@ -1,0 +1,5 @@
+C:\Users\murat\Desktop\varolmayanproje\obj\Debug\net8.0\varolmayanproje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat\Desktop\varolmayanproje\obj\Debug\net8.0\varolmayanproje.AssemblyInfoInputs.cache
+C:\Users\murat\Desktop\varolmayanproje\obj\Debug\net8.0\varolmayanproje.AssemblyInfo.cs
+C:\Users\murat\Desktop\varolmayanproje\obj\Debug\net8.0\varolmayanproje.csproj.CoreCompileInputs.cache
+C:\Users\murat\Desktop\varolmayanproje\obj\Debug\net8.0\varolmayanproje.sourcelink.json
